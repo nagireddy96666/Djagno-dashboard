@@ -1,0 +1,11 @@
+step1 - Install python
+step2 - Install all required libraries that are there in requirements.txt
+        To install use below command
+        pip install requirements.txt
+Step3 - Install the Database that you want to use
+        To run the mongodb in windows you need to follow below steps
+        - Once you install mongodb set the path for mongodb in windows
+        - create one folder in some where
+        - before start mongodb run the below command in command prompt run the below command
+        - mongod --dbpath C:\Users\Naveen\Desktop\data
+
